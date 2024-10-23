@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+## ✨ About Me
 
 - 🎓 I'm currently a **Senior** at **Zagazig University**, studying **Information Systems**.
 - 👨‍💻 I am highly proficient in **Backend Development** with a focus on building scalable and efficient solutions.
