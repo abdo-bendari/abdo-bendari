@@ -3,10 +3,16 @@
   <img src="https://cdn.pixabay.com/photo/2023/09/25/16/36/ai-generated-man-programmer-8684869_960_720.jpg" alt="Programmer Banner" width="800">
 </p>
 
-<h1 align="center"><span style="font-family: 'Arial', sans-serif; font-size: 50px;"><b>Hi, I am <span class="animate">Abdelrahman Bendari</span> 👋</b></span></h1>
+<h1 align="center"><span class="animate-name">Hi, I am Abdelrahman Bendari 👋</span></h1>
+<h3 align="center">A passionate Backend Developer and student at Zagazig University</h3>
 
 <style>
-  .animate {
+  .animate-name {
+    font-family: 'Arial', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    color: #ffa502;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
     animation: glow 1.5s ease-in-out infinite alternate;
   }
 
@@ -18,20 +24,38 @@
       text-shadow: 0 0 20px #ffa502, 0 0 30px #ffa502, 0 0 40px #ffa502, 0 0 50px #ffa502;
     }
   }
-</style>
 
-<h3 align="center">A passionate Backend Developer and student at Zagazig University</h3>
+  .badge-icon {
+    border-radius: 50%;
+    margin: 5px;
+    border: 2px solid #333;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.1);
+  }
+
+  .skill-title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #2f3640;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  .icon-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+</style>
 
 <!-- Social Icons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelrahmanbendari/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&borderRadius=100" alt="LinkedIn Badge" style="border-radius: 50px"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" class="badge-icon"/>
   </a>
   <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&borderRadius=100" alt="Email Badge" style="border-radius: 50px"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" class="badge-icon"/>
   </a>
   <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&borderRadius=100" alt="GitHub Badge" style="border-radius: 50px"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge" class="badge-icon"/>
   </a>
 </p>
 
@@ -41,41 +65,45 @@
 
 - 🎓 I'm currently a **Senior** at **Zagazig University**, studying **Information Systems**.
 - 👨‍💻 I am highly proficient in **Backend Development** with a focus on building scalable and efficient solutions.
-- 💻 My passion lies in **Node.js**, **Express.js**, and working with **MongoDB** and **MySQL**.
-- 🌱 Currently expanding my skillset by learning **DevOps** and **Cloud Technologies**.
+- 💻 My passion lies in **Node.js**, **Express.js**, and working with **MongoDB**, **Mongoose**, and **MySQL**.
+- 🌱 Currently expanding my skillset by learning **REST APIs**, **MVC**, **Sequelize**, and **DevOps**.
 
 ---
 
 ## 🛠️ Skills
 
 ### **Programming Languages**
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&borderRadius=100" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&borderRadius=100" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&borderRadius=100" alt="C++"/>
-</p>
+<div class="icon-container">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" class="badge-icon"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" class="badge-icon"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" class="badge-icon"/>
+</div>
 
 ### **Backend Development**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white&borderRadius=100" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&borderRadius=100" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&borderRadius=100" alt="Nest.js"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket-dot-io&logoColor=white&borderRadius=100" alt="Socket.io"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&borderRadius=100" alt="GraphQL"/>
-</p>
+<div class="icon-container">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" class="badge-icon"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" class="badge-icon"/>
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js" class="badge-icon"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket-dot-io&logoColor=white" alt="Socket.io" class="badge-icon"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" class="badge-icon"/>
+  <img src="https://img.shields.io/badge/MVC-FF5733?style=for-the-badge" alt="MVC" class="badge-icon"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-0000FF?style=for-the-badge" alt="REST APIs" class="badge-icon"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white" alt="Mongoose" class="badge-icon"/>
+</div>
 
 ### **Database**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&borderRadius=100" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&borderRadius=100" alt="MongoDB"/>
-</p>
+<div class="icon-container">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" class="badge-icon"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" class="badge-icon"/>
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize" class="badge-icon"/>
+</div>
 
 ### **Tools & Technologies**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&borderRadius=100" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&borderRadius=100" alt="Git"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&borderRadius=100" alt="Postman"/>
-</p>
+<div class="icon-container">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" class="badge-icon"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" class="badge-icon"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" class="badge-icon"/>
+</div>
 
 ---
 
@@ -117,12 +145,4 @@ A job search application allowing users to:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelrahmanbendari/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=100" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderRadius=100" alt="Email Badge"/>
-  </a>
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&borderRadius=100" alt="GitHub Badge"/>
-  </a>
-</p>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge
