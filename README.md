@@ -17,8 +17,11 @@
 
 ## 🚀 About Me
 
-- 🎓 I'm currently a **Senior** at the **Faculty of Computers and Information** at **Zagazig University**.
-- 👨‍💻 My passion lies in **Node.js**, **Express.js**, and working with **MongoDB**, **Mongoose**, **MySQL**, and **Sequelize**.
+- 🎓 I'm currently a **Senior** at **Zagazig University**, studying **Information Systems**.
+- 👨‍💻 I am highly proficient in **Backend Development** with a focus on building scalable and efficient solutions.
+- 💻 My passion lies in **Node.js**, **Express.js**, and working with **MongoDB**, **Mongoose**, **MySQL**, and **Sequelize**.
+- 🌱 Currently expanding my skillset by learning **REST APIs**, **MVC**, and **DevOps**.
+- 📈 Currently interning at **Azzrk** for electronic marketing.
 
 ---
 
@@ -62,10 +65,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdo-bendari&show_icons=true&theme=radical" alt="Abdelrahman's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdo-bendari&show_icons=true&theme=blue" alt="Abdelrahman's GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo-bendari&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo-bendari&layout=compact&theme=blue" alt="Top Languages"/>
 </p>
 
 ---
