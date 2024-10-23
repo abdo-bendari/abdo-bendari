@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I am Abdelrahman Bendari 👋</h1>
-<h3 align="center">A passionate Backend Developer and student at Zagazig University</h3>
+<h1 align="center" style="font-family: 'Arial', sans-serif;">Hi, I am Abdelrahman Bendari 👋</h1>
+<h3 align="center" style="font-family: 'Arial', sans-serif;">A passionate Backend Developer and student at the Faculty of Computers and Information, Zagazig University</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelrahman-bendari-757a62328">
@@ -17,10 +17,8 @@
 
 ## 🚀 About Me
 
-- 🎓 I'm currently a **Senior** at **Zagazig University**, studying **Information Systems**.
-- 👨‍💻 I am highly proficient in **Backend Development** with a focus on building scalable and efficient solutions.
-- 💻 My passion lies in **Node.js**, **Express.js**, and working with **MongoDB**, **Mongoose**, and **MySQL**.
-- 🌱 Currently expanding my skillset by learning **REST APIs**, **MVC**, **Sequelize**, and **DevOps**.
+- 🎓 I'm currently a **Senior** at the **Faculty of Computers and Information** at **Zagazig University**.
+- 👨‍💻 My passion lies in **Node.js**, **Express.js**, and working with **MongoDB**, **Mongoose**, **MySQL**, and **Sequelize**.
 
 ---
 
@@ -43,13 +41,13 @@
   <img src="https://img.shields.io/badge/MVC-FF5733?style=for-the-badge" alt="MVC"/>
   <img src="https://img.shields.io/badge/REST%20APIs-0000FF?style=for-the-badge" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white" alt="Mongoose"/>
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize"/>
 </p>
 
 ### **Database**
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize"/>
 </p>
 
 ### **Tools & Technologies**
