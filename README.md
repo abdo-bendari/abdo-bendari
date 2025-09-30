@@ -21,7 +21,7 @@
 - 👨‍💻 I am highly proficient in **Backend Development** with a focus on building scalable and efficient solutions.
 - 💻 My passion lies in **Node.js**, **Express.js**, and working with **MongoDB**, **Mongoose**, **MySQL**, and **Sequelize**.
 - 🌱 Currently expanding my skillset by learning **REST APIs**, **MVC**, and **DevOps**.
-- 📈 Currently interning at **Azzrk** for electronic marketing.
+- 📈 Backend Developer | Web Development & AI Instructor @Jupiter
 
 ---
 
