@@ -123,5 +123,4 @@
 
 ---
 
-⭐ *"Code with passion, teach with purpose, and grow every single day."*  
-<p align="center">— Abdelrahman Bendari</p>
+<h3 align="center"><em>“Code with passion, teach with purpose, and grow every single day.”</em></h3> <p align="center"><strong>— Abdelrahman Bendari</strong></p>
