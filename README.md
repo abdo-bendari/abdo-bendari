@@ -36,38 +36,38 @@
 
 ## ⚙️ Tech Stack
 
-### 💬 Programming Languages
+### **Programming Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 </p>
 
-### 🧩 Backend Frameworks
+### **Backend Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,socketio" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket-dot-io&logoColor=white" alt="Socket.io"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/MVC-FF5733?style=for-the-badge" alt="MVC"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-0000FF?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white" alt="Mongoose"/>
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize"/>
 </p>
 
-### 🗄️ Databases & ORM
+### **Database**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  <img src="https://img.shields.io/badge/Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sequelize-2F9FF8?style=for-the-badge&logo=sequelize&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
-### 🧰 Tools & Platforms
+### **Tools & Technologies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,postman,vscode,linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-| 🧱 Project | 🌟 Description | 🧰 Tech Stack |
-|------------|----------------|---------------|
-| 🎯 **eCommerce Platform** | A complete eCommerce backend with authentication, roles, and payment integration using Stripe. | Node.js, Express, MongoDB, JWT, Stripe |
-| 💼 **Job Search App** | Job listing platform for employers & job seekers with advanced filtering and secure authorization. | Node.js, MySQL, Sequelize |
-| 🌐 **Social Media API** | Backend with user following, secure headers (Helmet), and request logging (Morgan). | Express, MongoDB, JWT |
-| 🎓 **Online Courses Platform** | Real-time course management, payments, and progress tracking for students & instructors. | TypeScript, MySQL, Sequelize |
 
 ---
 
