@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdelrahman+Bendari+👋;Backend+Developer+%7C+Instructor;Building+Scalable+%26+Efficient+Systems;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🎓 Information Systems Student | Zagazig University</h3>
+<h3 align="center">🎓 Information Systems Student, Faculty of Computers and Information – Zagazig University</h3>
 <h3 align="center">💻 Backend Developer | Senior Instructor @Jupiter</h3>
 
 ---
