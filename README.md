@@ -92,8 +92,19 @@
 ## 🏅 Profile Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdo-bendari&theme=onedark&margin-w=10&no-frame=true" alt="GitHub Profile Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdo-bendari&show_icons=true&theme=tokyonight" alt="Abdelrahman Bendari's GitHub stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdo-bendari&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo-bendari&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
+  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdo-bendari&theme=tokyo-night&hide_border=true" />
