@@ -92,10 +92,6 @@
 ## 🏅 Profile Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdo-bendari&theme=onestar&margin-w=10&no-frame=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdo-bendari&theme=tokyo-night&hide_border=true" />
 </p>
 
