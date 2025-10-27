@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">🎓 Information Systems Student | Zagazig University</h3>
-<h3 align="center">💻 Backend Developer | Web Development & AI Instructor @ Jupiter</h3>
+<h3 align="center">💻 Backend Developer | Senior Instructor @Jupiter</h3>
 
 ---
 
@@ -123,4 +123,4 @@
 
 ---
 
-<h3 align="center"><em>“Code with passion, teach with purpose, and grow every single day.”</em></h3> <p align="center"><strong>— Abdelrahman Bendari</strong></p>
+<h3 align="center"><em>“Code with passion, teach with purpose, and grow every single day.”</em></h3> <p align="center"><strong>— Abdelrahman Bendari —</strong></p>
