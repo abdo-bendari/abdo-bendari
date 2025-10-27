@@ -92,7 +92,7 @@
 ## 🏅 Profile Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdo-bendari&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdo-bendari&theme=tokyonight" alt="GitHub Profile Summary"/>
 </p>
 
 
